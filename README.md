@@ -67,8 +67,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MuhammadNoman3405&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
